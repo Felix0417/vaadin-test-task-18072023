@@ -1,0 +1,1 @@
+INSERT INTO num (id, num) VALUES (1,0);
